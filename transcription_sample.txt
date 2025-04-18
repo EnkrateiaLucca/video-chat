@@ -1,0 +1,1476 @@
+"transcription": [
+    {
+        "timestamps": {
+            "from": "00:00:00,000",
+            "to": "00:00:09,220"
+        },
+        "offsets": {
+            "from": 0,
+            "to": 9220
+        },
+        "text": " Okay, so in this video, we are going to take a look at how to create a very quick storyboard."
+    },
+    {
+        "timestamps": {
+            "from": "00:00:09,220",
+            "to": "00:00:12,160"
+        },
+        "offsets": {
+            "from": 9220,
+            "to": 12160
+        },
+        "text": " So the tool I'm actually going to use to do this is Canva."
+    },
+    {
+        "timestamps": {
+            "from": "00:00:12,160",
+            "to": "00:00:18,100"
+        },
+        "offsets": {
+            "from": 12160,
+            "to": 18100
+        },
+        "text": " Now Canva is not an official storyboarding tool, but it's an incredibly easy to use tool"
+    },
+    {
+        "timestamps": {
+            "from": "00:00:18,100",
+            "to": "00:00:19,980"
+        },
+        "offsets": {
+            "from": 18100,
+            "to": 19980
+        },
+        "text": " for beginners who are new at design."
+    },
+    {
+        "timestamps": {
+            "from": "00:00:19,980",
+            "to": "00:00:24,660"
+        },
+        "offsets": {
+            "from": 19980,
+            "to": 24660
+        },
+        "text": " So I like using Canva because it just has a ton of design features all in one place."
+    },
+    {
+        "timestamps": {
+            "from": "00:00:24,660",
+            "to": "00:00:29,460"
+        },
+        "offsets": {
+            "from": 24660,
+            "to": 29460
+        },
+        "text": " If you want to use a more professional storyboarding tool, you can find a link to a few of those"
+    },
+    {
+        "timestamps": {
+            "from": "00:00:29,460",
+            "to": "00:00:31,180"
+        },
+        "offsets": {
+            "from": 29460,
+            "to": 31180
+        },
+        "text": " below this video."
+    },
+    {
+        "timestamps": {
+            "from": "00:00:31,180",
+            "to": "00:00:34,620"
+        },
+        "offsets": {
+            "from": 31180,
+            "to": 34620
+        },
+        "text": " So basically you need to sign up for a Canva account."
+    },
+    {
+        "timestamps": {
+            "from": "00:00:34,620",
+            "to": "00:00:38,460"
+        },
+        "offsets": {
+            "from": 34620,
+            "to": 38460
+        },
+        "text": " If you're watching this video, you may already have one, which I can't recommend enough."
+    },
+    {
+        "timestamps": {
+            "from": "00:00:38,460",
+            "to": "00:00:43,260"
+        },
+        "offsets": {
+            "from": 38460,
+            "to": 43260
+        },
+        "text": " Canva can be used to design just about anything and I use it all the time."
+    },
+    {
+        "timestamps": {
+            "from": "00:00:43,260",
+            "to": "00:00:46,300"
+        },
+        "offsets": {
+            "from": 43260,
+            "to": 46300
+        },
+        "text": " It's a really good tool for if you want to quickly put something together rather than"
+    },
+    {
+        "timestamps": {
+            "from": "00:00:46,300",
+            "to": "00:00:52,720"
+        },
+        "offsets": {
+            "from": 46300,
+            "to": 52720
+        },
+        "text": " going over two tools like Adobe Photoshop or Adobe Illustrator, which can be time-consuming."
+    },
+    {
+        "timestamps": {
+            "from": "00:00:52,720",
+            "to": "00:00:54,240"
+        },
+        "offsets": {
+            "from": 52720,
+            "to": 54240
+        },
+        "text": " So Canva is great."
+    },
+    {
+        "timestamps": {
+            "from": "00:00:54,240",
+            "to": "00:00:59,200"
+        },
+        "offsets": {
+            "from": 54240,
+            "to": 59200
+        },
+        "text": " So sign into your account, create an account if you don't have one."
+    },
+    {
+        "timestamps": {
+            "from": "00:00:59,200",
+            "to": "00:01:01,840"
+        },
+        "offsets": {
+            "from": 59200,
+            "to": 61840
+        },
+        "text": " You can sign up for the cheaper version."
+    },
+    {
+        "timestamps": {
+            "from": "00:01:01,840",
+            "to": "00:01:05,160"
+        },
+        "offsets": {
+            "from": 61840,
+            "to": 65160
+        },
+        "text": " They also have a free version, but that does have limitations."
+    },
+    {
+        "timestamps": {
+            "from": "00:01:05,160",
+            "to": "00:01:10,680"
+        },
+        "offsets": {
+            "from": 65160,
+            "to": 70680
+        },
+        "text": " So inside of your account, you are going to go to create a design and we are going to"
+    },
+    {
+        "timestamps": {
+            "from": "00:01:10,680",
+            "to": "00:01:12,320"
+        },
+        "offsets": {
+            "from": 70680,
+            "to": 72320
+        },
+        "text": " create a whiteboard."
+    },
+    {
+        "timestamps": {
+            "from": "00:01:12,320",
+            "to": "00:01:17,600"
+        },
+        "offsets": {
+            "from": 72320,
+            "to": 77600
+        },
+        "text": " So a whiteboard is pretty cool because it basically is just a blank canvas that has infinite"
+    },
+    {
+        "timestamps": {
+            "from": "00:01:17,600",
+            "to": "00:01:20,720"
+        },
+        "offsets": {
+            "from": 77600,
+            "to": 80720
+        },
+        "text": " edges and you can move stuff around as it makes sense."
+    },
+    {
+        "timestamps": {
+            "from": "00:01:20,720",
+            "to": "00:01:27,320"
+        },
+        "offsets": {
+            "from": 80720,
+            "to": 87320
+        },
+        "text": " So basically what you can do is just bring in all of the images that are going to represent"
+    },
+    {
+        "timestamps": {
+            "from": "00:01:27,320",
+            "to": "00:01:28,320"
+        },
+        "offsets": {
+            "from": 87320,
+            "to": 88320
+        },
+        "text": " your film."
+    },
+    {
+        "timestamps": {
+            "from": "00:01:28,320",
+            "to": "00:01:34,440"
+        },
+        "offsets": {
+            "from": 88320,
+            "to": 94440
+        },
+        "text": " So I'll just go ahead, drop them into here and we can literally just drag them around"
+    },
+    {
+        "timestamps": {
+            "from": "00:01:34,440",
+            "to": "00:01:39,720"
+        },
+        "offsets": {
+            "from": 94440,
+            "to": 99720
+        },
+        "text": " as if this was a big whiteboard and we can put them in an appropriate order."
+    },
+    {
+        "timestamps": {
+            "from": "00:01:39,720",
+            "to": "00:01:44,840"
+        },
+        "offsets": {
+            "from": 99720,
+            "to": 104840
+        },
+        "text": " So I like using the whiteboard feature here first because again, you can literally just"
+    },
+    {
+        "timestamps": {
+            "from": "00:01:44,840",
+            "to": "00:01:50,480"
+        },
+        "offsets": {
+            "from": 104840,
+            "to": 110480
+        },
+        "text": " move them around as if it was just a big whiteboard in an office."
+    },
+    {
+        "timestamps": {
+            "from": "00:01:50,480",
+            "to": "00:01:55,760"
+        },
+        "offsets": {
+            "from": 110480,
+            "to": 115760
+        },
+        "text": " So let's just set up a rough narrative sequence here."
+    },
+    {
+        "timestamps": {
+            "from": "00:01:55,760",
+            "to": "00:02:02,840"
+        },
+        "offsets": {
+            "from": 115760,
+            "to": 122840
+        },
+        "text": " So let's say that I get a start with an establishing shot in the city and then we have this cool"
+    },
+    {
+        "timestamps": {
+            "from": "00:02:02,840",
+            "to": "00:02:11,880"
+        },
+        "offsets": {
+            "from": 122840,
+            "to": 131880
+        },
+        "text": " nuclear reactor here and then we have a shot where this person is like, \"I'm a little suspicious"
+    },
+    {
+        "timestamps": {
+            "from": "00:02:11,880",
+            "to": "00:02:15,480"
+        },
+        "offsets": {
+            "from": 131880,
+            "to": 135480
+        },
+        "text": " of what's going on with this nuclear reactor.\""
+    },
+    {
+        "timestamps": {
+            "from": "00:02:15,480",
+            "to": "00:02:21,880"
+        },
+        "offsets": {
+            "from": 135480,
+            "to": 141880
+        },
+        "text": " And then we have this shot of these guys, they're confused about what's going on and"
+    },
+    {
+        "timestamps": {
+            "from": "00:02:21,880",
+            "to": "00:02:29,280"
+        },
+        "offsets": {
+            "from": 141880,
+            "to": 149280
+        },
+        "text": " they're in a lab but they're the bad guys I guess and then we have this person who they're"
+    },
+    {
+        "timestamps": {
+            "from": "00:02:29,280",
+            "to": "00:02:35,840"
+        },
+        "offsets": {
+            "from": 149280,
+            "to": 155840
+        },
+        "text": " exploring a bit more and then we have this guy over here who is presumably maybe the"
+    },
+    {
+        "timestamps": {
+            "from": "00:02:35,840",
+            "to": "00:02:37,960"
+        },
+        "offsets": {
+            "from": 155840,
+            "to": 157960
+        },
+        "text": " main character about to embark on the mission."
+    },
+    {
+        "timestamps": {
+            "from": "00:02:37,960",
+            "to": "00:02:43,720"
+        },
+        "offsets": {
+            "from": 157960,
+            "to": 163720
+        },
+        "text": " So it's a really quick way to lay out a storyboard and the cool thing is you can literally do"
+    },
+    {
+        "timestamps": {
+            "from": "00:02:43,720",
+            "to": "00:02:44,720"
+        },
+        "offsets": {
+            "from": 163720,
+            "to": 164720
+        },
+        "text": " anything you want."
+    },
+    {
+        "timestamps": {
+            "from": "00:02:44,720",
+            "to": "00:02:51,640"
+        },
+        "offsets": {
+            "from": 164720,
+            "to": 171640
+        },
+        "text": " So we can type in some text here, we can say this is an establishing shot and scale this"
+    },
+    {
+        "timestamps": {
+            "from": "00:02:51,640",
+            "to": "00:02:54,520"
+        },
+        "offsets": {
+            "from": 171640,
+            "to": 174520
+        },
+        "text": " down, put it over here."
+    },
+    {
+        "timestamps": {
+            "from": "00:02:54,520",
+            "to": "00:02:58,720"
+        },
+        "offsets": {
+            "from": 174520,
+            "to": 178720
+        },
+        "text": " We could literally go into Canva so there are some elements that you can use so we can"
+    },
+    {
+        "timestamps": {
+            "from": "00:02:58,720",
+            "to": "00:03:01,800"
+        },
+        "offsets": {
+            "from": 178720,
+            "to": 181800
+        },
+        "text": " say circle."
+    },
+    {
+        "timestamps": {
+            "from": "00:03:01,800",
+            "to": "00:03:04,600"
+        },
+        "offsets": {
+            "from": 181800,
+            "to": 184600
+        },
+        "text": " So we could like circle certain things that we like."
+    },
+    {
+        "timestamps": {
+            "from": "00:03:04,600",
+            "to": "00:03:14,560"
+        },
+        "offsets": {
+            "from": 184600,
+            "to": 194560
+        },
+        "text": " So for example, let's just say, I don't know, let's circle this person here and we"
+    },
+    {
+        "timestamps": {
+            "from": "00:03:14,560",
+            "to": "00:03:22,200"
+        },
+        "offsets": {
+            "from": 194560,
+            "to": 202200
+        },
+        "text": " can turn it light just like that and just to like emphasize something and you can say"
+    },
+    {
+        "timestamps": {
+            "from": "00:03:22,200",
+            "to": "00:03:30,480"
+        },
+        "offsets": {
+            "from": 202200,
+            "to": 210480
+        },
+        "text": " like, \"Greg, who should we cast here?\""
+    },
+    {
+        "timestamps": {
+            "from": "00:03:30,480",
+            "to": "00:03:36,280"
+        },
+        "offsets": {
+            "from": 210480,
+            "to": 216280
+        },
+        "text": " And basically just generally like set this up as if you were putting together a rough"
+    },
+    {
+        "timestamps": {
+            "from": "00:03:36,280",
+            "to": "00:03:38,240"
+        },
+        "offsets": {
+            "from": 216280,
+            "to": 218240
+        },
+        "text": " storyboard with some friends."
+    },
+    {
+        "timestamps": {
+            "from": "00:03:38,240",
+            "to": "00:03:42,720"
+        },
+        "offsets": {
+            "from": 218240,
+            "to": 222720
+        },
+        "text": " So that's how to put together a rough storyboard."
+    },
+    {
+        "timestamps": {
+            "from": "00:03:42,720",
+            "to": "00:03:47,160"
+        },
+        "offsets": {
+            "from": 222720,
+            "to": 227160
+        },
+        "text": " Once you know the actual sequence of your images, I would actually recommend creating"
+    },
+    {
+        "timestamps": {
+            "from": "00:03:47,160",
+            "to": "00:03:52,760"
+        },
+        "offsets": {
+            "from": 227160,
+            "to": 232760
+        },
+        "text": " a separate file where you will actually put together a rough pitch for this."
+    },
+    {
+        "timestamps": {
+            "from": "00:03:52,760",
+            "to": "00:03:54,520"
+        },
+        "offsets": {
+            "from": 232760,
+            "to": 234520
+        },
+        "text": " So let's go ahead and do that."
+    },
+    {
+        "timestamps": {
+            "from": "00:03:54,520",
+            "to": "00:04:02,480"
+        },
+        "offsets": {
+            "from": 234520,
+            "to": 242480
+        },
+        "text": " So I'm going to go back over to our main page in Canva and I'm going to select video."
+    },
+    {
+        "timestamps": {
+            "from": "00:04:02,480",
+            "to": "00:04:06,440"
+        },
+        "offsets": {
+            "from": 242480,
+            "to": 246440
+        },
+        "text": " And let's go ahead and upload our images."
+    },
+    {
+        "timestamps": {
+            "from": "00:04:06,440",
+            "to": "00:04:11,600"
+        },
+        "offsets": {
+            "from": 246440,
+            "to": 251600
+        },
+        "text": " So our uploads are here and we'll upload them in the same order that we did earlier."
+    },
+    {
+        "timestamps": {
+            "from": "00:04:11,600",
+            "to": "00:04:17,920"
+        },
+        "offsets": {
+            "from": 251600,
+            "to": 257920
+        },
+        "text": " So I'll just put that there, create a new page and basically we'll just add in each image"
+    },
+    {
+        "timestamps": {
+            "from": "00:04:17,920",
+            "to": "00:04:23,400"
+        },
+        "offsets": {
+            "from": 257920,
+            "to": 263400
+        },
+        "text": " in the same order that we added them in."
+    },
+    {
+        "timestamps": {
+            "from": "00:04:23,400",
+            "to": "00:04:29,640"
+        },
+        "offsets": {
+            "from": 263400,
+            "to": 269640
+        },
+        "text": " Like that."
+    },
+    {
+        "timestamps": {
+            "from": "00:04:29,640",
+            "to": "00:04:32,880"
+        },
+        "offsets": {
+            "from": 269640,
+            "to": 272880
+        },
+        "text": " So again, this is helping you put together a pitch."
+    },
+    {
+        "timestamps": {
+            "from": "00:04:32,880",
+            "to": "00:04:40,240"
+        },
+        "offsets": {
+            "from": 272880,
+            "to": 280240
+        },
+        "text": " So a pitch is basically just a quick explanation of what the overall story of your film is"
+    },
+    {
+        "timestamps": {
+            "from": "00:04:40,240",
+            "to": "00:04:44,200"
+        },
+        "offsets": {
+            "from": 280240,
+            "to": 284200
+        },
+        "text": " like and it's just a way for you to communicate your creative vision with other people."
+    },
+    {
+        "timestamps": {
+            "from": "00:04:44,200",
+            "to": "00:04:50,800"
+        },
+        "offsets": {
+            "from": 284200,
+            "to": 290800
+        },
+        "text": " So using tools like Canva, we can do actual video pitches using our mid-journey tools."
+    },
+    {
+        "timestamps": {
+            "from": "00:04:50,800",
+            "to": "00:04:53,720"
+        },
+        "offsets": {
+            "from": 290800,
+            "to": 293720
+        },
+        "text": " So the next thing I want to do is add in some notes."
+    },
+    {
+        "timestamps": {
+            "from": "00:04:53,720",
+            "to": "00:04:59,880"
+        },
+        "offsets": {
+            "from": 293720,
+            "to": 299880
+        },
+        "text": " So if I'm going to create a pitch here, then I want to add in the text that will be said"
+    },
+    {
+        "timestamps": {
+            "from": "00:04:59,880",
+            "to": "00:05:01,600"
+        },
+        "offsets": {
+            "from": 299880,
+            "to": 301600
+        },
+        "text": " for each slide."
+    },
+    {
+        "timestamps": {
+            "from": "00:05:01,600",
+            "to": "00:05:06,360"
+        },
+        "offsets": {
+            "from": 301600,
+            "to": 306360
+        },
+        "text": " So in order to do that, the easiest thing to do would probably just be to creatively"
+    },
+    {
+        "timestamps": {
+            "from": "00:05:06,360",
+            "to": "00:05:08,680"
+        },
+        "offsets": {
+            "from": 306360,
+            "to": 308680
+        },
+        "text": " envision and type it out."
+    },
+    {
+        "timestamps": {
+            "from": "00:05:08,680",
+            "to": "00:05:14,480"
+        },
+        "offsets": {
+            "from": 308680,
+            "to": 314480
+        },
+        "text": " And I utilized Chat GBT to help me put together a quick pitch for this project."
+    },
+    {
+        "timestamps": {
+            "from": "00:05:14,480",
+            "to": "00:05:20,280"
+        },
+        "offsets": {
+            "from": 314480,
+            "to": 320280
+        },
+        "text": " Just as an example, I don't think in a real context I would use Chat GBT to fully refine"
+    },
+    {
+        "timestamps": {
+            "from": "00:05:20,280",
+            "to": "00:05:25,920"
+        },
+        "offsets": {
+            "from": 320280,
+            "to": 325920
+        },
+        "text": " the story, but for now, for this pitch and example, I'll just go ahead and use this."
+    },
+    {
+        "timestamps": {
+            "from": "00:05:25,920",
+            "to": "00:05:31,120"
+        },
+        "offsets": {
+            "from": 325920,
+            "to": 331120
+        },
+        "text": " So let's go ahead and I'll just paste this in here."
+    },
+    {
+        "timestamps": {
+            "from": "00:05:31,120",
+            "to": "00:05:37,040"
+        },
+        "offsets": {
+            "from": 331120,
+            "to": 337040
+        },
+        "text": " Okay, cool."
+    },
+    {
+        "timestamps": {
+            "from": "00:05:37,040",
+            "to": "00:05:41,640"
+        },
+        "offsets": {
+            "from": 337040,
+            "to": 341640
+        },
+        "text": " So we've pasted the actual text into our notes section."
+    },
+    {
+        "timestamps": {
+            "from": "00:05:41,640",
+            "to": "00:05:44,600"
+        },
+        "offsets": {
+            "from": 341640,
+            "to": 344600
+        },
+        "text": " Now will be the time to practice our pitch."
+    },
+    {
+        "timestamps": {
+            "from": "00:05:44,600",
+            "to": "00:05:46,160"
+        },
+        "offsets": {
+            "from": 344600,
+            "to": 346160
+        },
+        "text": " So to do that, it's really interesting."
+    },
+    {
+        "timestamps": {
+            "from": "00:05:46,160",
+            "to": "00:05:49,240"
+        },
+        "offsets": {
+            "from": 346160,
+            "to": 349240
+        },
+        "text": " There are presentation features inside of Canva."
+    },
+    {
+        "timestamps": {
+            "from": "00:05:49,240",
+            "to": "00:05:58,440"
+        },
+        "offsets": {
+            "from": 349240,
+            "to": 358440
+        },
+        "text": " So we can just go over here to More and then we will select Presentation or Present rather."
+    },
+    {
+        "timestamps": {
+            "from": "00:05:58,440",
+            "to": "00:06:03,120"
+        },
+        "offsets": {
+            "from": 358440,
+            "to": 363120
+        },
+        "text": " And I'm going to select Present Review and Present Review basically allows you to practice"
+    },
+    {
+        "timestamps": {
+            "from": "00:06:03,120",
+            "to": "00:06:04,200"
+        },
+        "offsets": {
+            "from": 363120,
+            "to": 364200
+        },
+        "text": " with your notes."
+    },
+    {
+        "timestamps": {
+            "from": "00:06:04,200",
+            "to": "00:06:11,560"
+        },
+        "offsets": {
+            "from": 364200,
+            "to": 371560
+        },
+        "text": " So essentially if you were presenting this, the audience, let me exit full screen mode,"
+    },
+    {
+        "timestamps": {
+            "from": "00:06:11,560",
+            "to": "00:06:15,720"
+        },
+        "offsets": {
+            "from": 371560,
+            "to": 375720
+        },
+        "text": " sorry, the audience would see this screen, but you would see this screen and it has all"
+    },
+    {
+        "timestamps": {
+            "from": "00:06:15,720",
+            "to": "00:06:23,800"
+        },
+        "offsets": {
+            "from": 375720,
+            "to": 383800
+        },
+        "text": " of its text here so you could practice basically doing your pitch just as if your audience"
+    },
+    {
+        "timestamps": {
+            "from": "00:06:23,800",
+            "to": "00:06:24,800"
+        },
+        "offsets": {
+            "from": 383800,
+            "to": 384800
+        },
+        "text": " was seeing that."
+    },
+    {
+        "timestamps": {
+            "from": "00:06:24,800",
+            "to": "00:06:28,800"
+        },
+        "offsets": {
+            "from": 384800,
+            "to": 388800
+        },
+        "text": " So let me just give you a quick example of what our just quick pitch could be like."
+    },
+    {
+        "timestamps": {
+            "from": "00:06:28,800",
+            "to": "00:06:34,280"
+        },
+        "offsets": {
+            "from": 388800,
+            "to": 394280
+        },
+        "text": " In a decaying city where time has lost its grip, a groundbreaking discovery awaits."
+    },
+    {
+        "timestamps": {
+            "from": "00:06:34,280",
+            "to": "00:06:39,760"
+        },
+        "offsets": {
+            "from": 394280,
+            "to": 399760
+        },
+        "text": " Meet Dr. Grant, a brilliant scientist on the brink of a monumental breakthrough, but lurking"
+    },
+    {
+        "timestamps": {
+            "from": "00:06:39,760",
+            "to": "00:06:47,400"
+        },
+        "offsets": {
+            "from": 399760,
+            "to": 407400
+        },
+        "text": " in the shadows is Valeria, a mysterious and enigmatic figure with her own agenda."
+    },
+    {
+        "timestamps": {
+            "from": "00:06:47,400",
+            "to": "00:06:53,600"
+        },
+        "offsets": {
+            "from": 407400,
+            "to": 413600
+        },
+        "text": " Sarah Anderson, an unsuspecting citizen, stumbles upon a mesmerizing glass orb."
+    },
+    {
+        "timestamps": {
+            "from": "00:06:53,600",
+            "to": "00:06:59,320"
+        },
+        "offsets": {
+            "from": 413600,
+            "to": 419320
+        },
+        "text": " As chaos ensues, Dr. Grant and his colleagues, Dr. Samuel Wells, must race against time itself"
+    },
+    {
+        "timestamps": {
+            "from": "00:06:59,320",
+            "to": "00:07:01,560"
+        },
+        "offsets": {
+            "from": 419320,
+            "to": 421560
+        },
+        "text": " to rectify their mistake."
+    },
+    {
+        "timestamps": {
+            "from": "00:07:01,560",
+            "to": "00:07:06,640"
+        },
+        "offsets": {
+            "from": 421560,
+            "to": 426640
+        },
+        "text": " And deep within the temporal distortion alone astronaut, Ethan Walker fights back to bring"
+    },
+    {
+        "timestamps": {
+            "from": "00:07:06,640",
+            "to": "00:07:10,400"
+        },
+        "offsets": {
+            "from": 426640,
+            "to": 430400
+        },
+        "text": " order back to the world on the edge of oblivion."
+    },
+    {
+        "timestamps": {
+            "from": "00:07:10,400",
+            "to": "00:07:15,480"
+        },
+        "offsets": {
+            "from": 430400,
+            "to": 435480
+        },
+        "text": " Join them on an adrenaline-fueled journey as they navigate a crumbling world, mastering"
+    },
+    {
+        "timestamps": {
+            "from": "00:07:15,480",
+            "to": "00:07:20,280"
+        },
+        "offsets": {
+            "from": 435480,
+            "to": 440280
+        },
+        "text": " the laws of these orbs and confronting the time vortex itself."
+    },
+    {
+        "timestamps": {
+            "from": "00:07:20,280",
+            "to": "00:07:25,040"
+        },
+        "offsets": {
+            "from": 440280,
+            "to": 445040
+        },
+        "text": " During disparity, the orb chronicles, an epic sci-fi adventure that will leave you breathless"
+    },
+    {
+        "timestamps": {
+            "from": "00:07:25,040",
+            "to": "00:07:28,160"
+        },
+        "offsets": {
+            "from": 445040,
+            "to": 448160
+        },
+        "text": " and questioning the very fabric of time."
+    },
+    {
+        "timestamps": {
+            "from": "00:07:28,160",
+            "to": "00:07:33,360"
+        },
+        "offsets": {
+            "from": 448160,
+            "to": 453360
+        },
+        "text": " Ok, so that's the quick pitch, obviously the story is not the best story."
+    },
+    {
+        "timestamps": {
+            "from": "00:07:33,360",
+            "to": "00:07:37,240"
+        },
+        "offsets": {
+            "from": 453360,
+            "to": 457240
+        },
+        "text": " We could totally go further with this and do something that's much more interesting."
+    },
+    {
+        "timestamps": {
+            "from": "00:07:37,240",
+            "to": "00:07:41,600"
+        },
+        "offsets": {
+            "from": 457240,
+            "to": 461600
+        },
+        "text": " Again, I think injecting your own creative humanity into the project is always going"
+    },
+    {
+        "timestamps": {
+            "from": "00:07:41,600",
+            "to": "00:07:43,440"
+        },
+        "offsets": {
+            "from": 461600,
+            "to": 463440
+        },
+        "text": " to yield better results."
+    },
+    {
+        "timestamps": {
+            "from": "00:07:43,440",
+            "to": "00:07:46,800"
+        },
+        "offsets": {
+            "from": 463440,
+            "to": 466800
+        },
+        "text": " But I do want to show you one last feature here."
+    },
+    {
+        "timestamps": {
+            "from": "00:07:46,800",
+            "to": "00:07:51,000"
+        },
+        "offsets": {
+            "from": 466800,
+            "to": 471000
+        },
+        "text": " So not only can you practice your pitch in the way that I just showed you, but you actually"
+    },
+    {
+        "timestamps": {
+            "from": "00:07:51,000",
+            "to": "00:07:53,240"
+        },
+        "offsets": {
+            "from": 471000,
+            "to": 473240
+        },
+        "text": " can record your presentation."
+    },
+    {
+        "timestamps": {
+            "from": "00:07:53,240",
+            "to": "00:07:59,880"
+        },
+        "offsets": {
+            "from": 473240,
+            "to": 479880
+        },
+        "text": " So I'm going to go to the share button here, and we will do present and record, and we'll"
+    },
+    {
+        "timestamps": {
+            "from": "00:07:59,880",
+            "to": "00:08:04,960"
+        },
+        "offsets": {
+            "from": 479880,
+            "to": 484960
+        },
+        "text": " go to the recording studio, and it's going to ask you to set up your camera and microphone."
+    },
+    {
+        "timestamps": {
+            "from": "00:08:04,960",
+            "to": "00:08:10,280"
+        },
+        "offsets": {
+            "from": 484960,
+            "to": 490280
+        },
+        "text": " I don't want to have the camera activated, but we do have the microphone set here."
+    },
+    {
+        "timestamps": {
+            "from": "00:08:10,280",
+            "to": "00:08:19,120"
+        },
+        "offsets": {
+            "from": 490280,
+            "to": 499120
+        },
+        "text": " So what you can do is hit Start Recording, and this is going to record just the screen,"
+    },
+    {
+        "timestamps": {
+            "from": "00:08:19,120",
+            "to": "00:08:22,000"
+        },
+        "offsets": {
+            "from": 499120,
+            "to": 502000
+        },
+        "text": " so the audience will see just this, but you can see the text."
+    },
+    {
+        "timestamps": {
+            "from": "00:08:22,000",
+            "to": "00:08:24,880"
+        },
+        "offsets": {
+            "from": 502000,
+            "to": 504880
+        },
+        "text": " So I'm going to do this one more time just as an example."
+    },
+    {
+        "timestamps": {
+            "from": "00:08:24,880",
+            "to": "00:08:30,280"
+        },
+        "offsets": {
+            "from": 504880,
+            "to": 510280
+        },
+        "text": " In a decaying city where time has lost its grip, a groundbreaking discovery awaits."
+    },
+    {
+        "timestamps": {
+            "from": "00:08:30,280",
+            "to": "00:08:35,280"
+        },
+        "offsets": {
+            "from": 510280,
+            "to": 515280
+        },
+        "text": " Meet Dr. Grant, a brilliant scientist on the brink of a monumental breakthrough."
+    },
+    {
+        "timestamps": {
+            "from": "00:08:35,280",
+            "to": "00:08:41,680"
+        },
+        "offsets": {
+            "from": 515280,
+            "to": 521680
+        },
+        "text": " Alerting in the Shadows is Valeria, a mysterious and enigmatic figure with her own agenda."
+    },
+    {
+        "timestamps": {
+            "from": "00:08:41,680",
+            "to": "00:08:47,840"
+        },
+        "offsets": {
+            "from": 521680,
+            "to": 527840
+        },
+        "text": " Sarah Anderson, an unsuspecting citizen, stumbles upon a mesmerizing class orb."
+    },
+    {
+        "timestamps": {
+            "from": "00:08:47,840",
+            "to": "00:08:53,440"
+        },
+        "offsets": {
+            "from": 527840,
+            "to": 533440
+        },
+        "text": " As chaos ensues, Dr. Grant and his colleague, Dr. Samuel Wells, must race against time itself"
+    },
+    {
+        "timestamps": {
+            "from": "00:08:53,440",
+            "to": "00:08:55,600"
+        },
+        "offsets": {
+            "from": 533440,
+            "to": 535600
+        },
+        "text": " to rectify their mistake."
+    },
+    {
+        "timestamps": {
+            "from": "00:08:55,600",
+            "to": "00:09:00,560"
+        },
+        "offsets": {
+            "from": 535600,
+            "to": 540560
+        },
+        "text": " And deep within the temporal distortion alone astronaut, Ethan Walker fights to bring order"
+    },
+    {
+        "timestamps": {
+            "from": "00:09:00,560",
+            "to": "00:09:03,840"
+        },
+        "offsets": {
+            "from": 540560,
+            "to": 543840
+        },
+        "text": " back to the world on the edge of oblivion."
+    },
+    {
+        "timestamps": {
+            "from": "00:09:03,840",
+            "to": "00:09:08,280"
+        },
+        "offsets": {
+            "from": 543840,
+            "to": 548280
+        },
+        "text": " Bring them on this adrenaline fueled journey as they navigate a crumbling world, mastering"
+    },
+    {
+        "timestamps": {
+            "from": "00:09:08,280",
+            "to": "00:09:12,920"
+        },
+        "offsets": {
+            "from": 548280,
+            "to": 552920
+        },
+        "text": " the laws of these orbs, and confronting the time vortex itself."
+    },
+    {
+        "timestamps": {
+            "from": "00:09:12,920",
+            "to": "00:09:17,760"
+        },
+        "offsets": {
+            "from": 552920,
+            "to": 557760
+        },
+        "text": " Time disparity, the orb chronicles, an epic sci-fi adventure that will leave you breathless"
+    },
+    {
+        "timestamps": {
+            "from": "00:09:17,760",
+            "to": "00:09:21,080"
+        },
+        "offsets": {
+            "from": 557760,
+            "to": 561080
+        },
+        "text": " in questioning the fabric of time."
+    },
+    {
+        "timestamps": {
+            "from": "00:09:21,080",
+            "to": "00:09:28,600"
+        },
+        "offsets": {
+            "from": 561080,
+            "to": 568600
+        },
+        "text": " Okay, so after that you can basically hit Stop, it will save all of your recording, and you"
+    },
+    {
+        "timestamps": {
+            "from": "00:09:28,600",
+            "to": "00:09:32,240"
+        },
+        "offsets": {
+            "from": 568600,
+            "to": 572240
+        },
+        "text": " can download the video to your computer, you can edit it, but the cool part is you can"
+    },
+    {
+        "timestamps": {
+            "from": "00:09:32,240",
+            "to": "00:09:34,080"
+        },
+        "offsets": {
+            "from": 572240,
+            "to": 574080
+        },
+        "text": " actually copy a link."
+    },
+    {
+        "timestamps": {
+            "from": "00:09:34,080",
+            "to": "00:09:37,560"
+        },
+        "offsets": {
+            "from": 574080,
+            "to": 577560
+        },
+        "text": " So we copy that link and paste it."
+    },
+    {
+        "timestamps": {
+            "from": "00:09:37,560",
+            "to": "00:09:42,680"
+        },
+        "offsets": {
+            "from": 577560,
+            "to": 582680
+        },
+        "text": " Someone can actually watch your presentation, and this is going to record just the screen."
+    },
+    {
+        "timestamps": {
+            "from": "00:09:42,680",
+            "to": "00:09:47,600"
+        },
+        "offsets": {
+            "from": 582680,
+            "to": 587600
+        },
+        "text": " So someone can actually hear your presentation and watch it through, and they can see when"
+    },
+    {
+        "timestamps": {
+            "from": "00:09:47,600",
+            "to": "00:09:49,680"
+        },
+        "offsets": {
+            "from": 587600,
+            "to": 589680
+        },
+        "text": " the slides jump here."
+    },
+    {
+        "timestamps": {
+            "from": "00:09:49,680",
+            "to": "00:09:54,400"
+        },
+        "offsets": {
+            "from": 589680,
+            "to": 594400
+        },
+        "text": " And so it's a really fantastic way to share your pitch with the world."
+    },
+    {
+        "timestamps": {
+            "from": "00:09:54,400",
+            "to": "00:10:00,120"
+        },
+        "offsets": {
+            "from": 594400,
+            "to": 600120
+        },
+        "text": " So with this week's assignment, the assignment is really just to create a film concept and"
+    },
+    {
+        "timestamps": {
+            "from": "00:10:00,120",
+            "to": "00:10:03,560"
+        },
+        "offsets": {
+            "from": 600120,
+            "to": 603560
+        },
+        "text": " just to create some imagery inside of mid-journey."
+    },
+    {
+        "timestamps": {
+            "from": "00:10:03,560",
+            "to": "00:10:08,440"
+        },
+        "offsets": {
+            "from": 603560,
+            "to": 608440
+        },
+        "text": " But if you want to take it one step further, you could record your screen with a cool slideshow"
+    },
+    {
+        "timestamps": {
+            "from": "00:10:08,440",
+            "to": "00:10:13,640"
+        },
+        "offsets": {
+            "from": 608440,
+            "to": 613640
+        },
+        "text": " pitch just like I just showed you here, and we would love to literally hear you pitch your"
+    },
+    {
+        "timestamps": {
+            "from": "00:10:13,640",
+            "to": "00:10:14,640"
+        },
+        "offsets": {
+            "from": 613640,
+            "to": 614640
+        },
+        "text": " film to us."
+    },
+    {
+        "timestamps": {
+            "from": "00:10:14,640",
+            "to": "00:10:17,800"
+        },
+        "offsets": {
+            "from": 614640,
+            "to": 617800
+        },
+        "text": " So it's a completely optional bonus objective, but if you're feeling courageous, we would"
+    },
+    {
+        "timestamps": {
+            "from": "00:10:17,800",
+            "to": "00:10:18,880"
+        },
+        "offsets": {
+            "from": 617800,
+            "to": 618880
+        },
+        "text": " love to see your project."
+    }
+]
