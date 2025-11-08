@@ -265,7 +265,7 @@ async function fetchAIResponse(question) {
             'Authorization': `Bearer ${apiKey}`
         },
         body: JSON.stringify({
-            model: 'gpt-3.5-turbo',
+            model: 'gpt-5',
             messages: [
                 {
                     role: 'system',
@@ -279,8 +279,6 @@ async function fetchAIResponse(question) {
                     content: `Here is the transcript:\n\n${context}\n\nQuestion: ${question}`
                 }
             ],
-            temperature: 0.3,
-            max_tokens: 500
         })
     });
 
